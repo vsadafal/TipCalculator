@@ -1,7 +1,7 @@
 # TipCalculator
 
 > How many hours did it take to complete?
-4-5 hours. It required learning also
+- 4-5 hours. It required learning also
 
 > Which required and optional stories have you completed?
 - created tip calculator as mentioned in the video walkthrough
