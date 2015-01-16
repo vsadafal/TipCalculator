@@ -11,4 +11,4 @@
 - change the colors, fonts and UI to look aesthetically good
 - animated tip value size based on the tip% 
 
-[https://cloud.githubusercontent.com/assets/10557241/5771928/35c6a006-9cfd-11e4-9dfa-ca5d1d30e0e2.gif]
+![Alt text](https://cloud.githubusercontent.com/assets/10557241/5771928/35c6a006-9cfd-11e4-9dfa-ca5d1d30e0e2.gif "Tip Calculator Demo")
